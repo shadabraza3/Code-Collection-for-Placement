@@ -1,1 +1,0 @@
-Basic questions data structure and algorithm.
